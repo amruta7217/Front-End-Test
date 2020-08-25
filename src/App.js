@@ -78,7 +78,7 @@ class App extends PureComponent {
                         <Field
                           className="form-control "
                           name="SearchAny"
-                          placeholder="Search by Area,Name,Street"
+                          placeholder="Search by Name"
                           type="text"
                         />
                         <button
